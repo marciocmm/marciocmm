@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-me = {
-    'name': 'Marcio',
-    'age': 3.9,
-    'email': 'marcio@trecolabs.com',
-    'learning': ['Python', 'Django', 'JavaScript', 'TypeScript', 'NodeJS', 'HTML', 'CSS']
+<!--
+me = { <br>
+    'name': 'Marcio', <br>
+    'age': 3.9, <br>
+    'email': '', <br>
+    'learning': ['Python', 'Django', 'JavaScript', 'TypeScript', 'NodeJS', 'HTML', 'CSS'] <br>
 }
 
 
-`git status`
 
-<!--
+
+
 **marciocmm/marciocmm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
