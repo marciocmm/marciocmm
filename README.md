@@ -8,11 +8,7 @@ me = {
 }
 
 
-```
-git status
-git add
-git commit
-```
+`git status`
 
 <!--
 **marciocmm/marciocmm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
